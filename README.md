@@ -7,14 +7,7 @@ Sou Júlio Gomes! Desenvolvedor **PHP** utilizando o framework **laravel** como 
 <!-- gif Image -->
 <img width="460" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=JulioCGomes&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
 
-
-### 💼  Things that I'm currently working on: 
-* Web Dev 
-* And Web Dev
-* And only Web Dev
-* Coz I wanna be a better Web Dev 
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Linguagens e configurações:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Principais Linguagens e configurações:
 <h4>Front-end:</h4>
 <p> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -34,11 +27,6 @@ Sou Júlio Gomes! Desenvolvedor **PHP** utilizando o framework **laravel** como 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-<h4>Controlar de pacodes:</h4>
-<p>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-Composer
 </p>
 <h4>Outros</h4>
 <p>
