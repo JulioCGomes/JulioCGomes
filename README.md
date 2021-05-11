@@ -2,7 +2,7 @@
 # Olá! :wave:
 
 <!--Introduction -->
-Sou Júlio Gomes! Desenvolvedor **PHP** utilizando o framework **laravel** como linguagem de backend e utilizo o **VueJS** para formatar o front, e também utilizo bastante o **blade**, que vem juntamente com a instalação do laravel, já configurada. Seja bem-vindo ao repositório, caso curtir algum projeto, não esquece de avaliar :smile:.
+Sou Júlio Gomes! Desenvolvedor **PHP** utilizando o framework **laravel** como linguagem de backend e utilizo o **VueJS** para formatar o front, e também utilizo bastante o **blade**, que vem com a instalação do laravel, já configurada. Seja bem-vindo ao repositório, caso curtir algum projeto, não esquece de avaliar :smile:.
 
 <!-- gif Image -->
 <img width="460" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=JulioCGomes&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
